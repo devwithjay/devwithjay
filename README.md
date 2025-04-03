@@ -21,7 +21,7 @@
 
 - Thoughts about Engineering at <a href="https://blog.devwithjay.com/" target="_blank">blog.devwithjay.com</a>
 
-- Currently learning <a href="https://react.dev/" target="_blank">React.Js</a>
+- Currently learning <a href="https://nextjs.org/" target="_blank">Next.Js</a>
 
 - Happy to connect Amazing folks and build Awesome network.
 
@@ -32,5 +32,5 @@
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; Tech-Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,tailwind,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,figma,tailwind,nodejs,nextjs,mongodb,postgres,&theme=dark" />
 </p>
