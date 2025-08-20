@@ -29,8 +29,16 @@
 
 <!-- Technologies that I'm working with -->
 
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; Tech-Stack
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,figma,tailwind,nodejs,nextjs,mongodb,postgres,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,express,bun,vite,nodejs,nextjs,mongodb,postgres,git,&theme=dark" />
+</p>
+
+<!-- Tools I use -->
+
+<img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif?cid=ecf05e47nfhfh6dzq7v2j8p8s0h31w7r4i6p7o7z8ixj0g7c&rid=giphy.gif" width="22px" align="top"/> &nbsp; **Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,notion,cloudflare,figma,postman,vscode,vercel,netlify,docker&theme=dark" />
 </p>
